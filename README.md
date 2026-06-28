@@ -60,5 +60,5 @@ It combines a backend server with a mobile interface built in Flutter. This proj
 
 ### 📫 Let's Connect!
 💬 I'm always open to discussing new projects, QA methodologies, or tech in general!
-* **LinkedIn:**
+* **LinkedIn:** [Here](https://www.linkedin.com/in/nazar-leskiv/)
 * **Email:** [nazareth56778@gmail.com]
